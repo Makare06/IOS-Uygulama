@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>1059400005197-s0896n5gq0bkerqcuur9bn2ai3vvakqq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.1059400005197-s0896n5gq0bkerqcuur9bn2ai3vvakqq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyA24LLO3SVIu87GSq3IuihtoobnXxV9REA</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1059400005197</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>Ktu.NotDefteri1</string>
+	<key>PROJECT_ID</key>
+	<string>notdefteri1-ed3df</string>
+	<key>STORAGE_BUCKET</key>
+	<string>notdefteri1-ed3df.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1059400005197:ios:dfb64de448941b55</string>
+	<key>DATABASE_URL</key>
+	<string>https://notdefteri1-ed3df.firebaseio.com</string>
+</dict>
+</plist>
